@@ -1,0 +1,22 @@
+c:\users\muhsina\documents\visual studio 2015\Projects\Settings_Replication\Settings_Replication\bin\Debug\Settings_Replication.exe.config
+c:\users\muhsina\documents\visual studio 2015\Projects\Settings_Replication\Settings_Replication\bin\Debug\Settings_Replication.exe
+c:\users\muhsina\documents\visual studio 2015\Projects\Settings_Replication\Settings_Replication\bin\Debug\Settings_Replication.pdb
+c:\users\muhsina\documents\visual studio 2015\Projects\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.csprojResolveAssemblyReference.cache
+c:\users\muhsina\documents\visual studio 2015\Projects\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.Properties.Resources.resources
+c:\users\muhsina\documents\visual studio 2015\Projects\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.csproj.GenerateResource.Cache
+c:\users\muhsina\documents\visual studio 2015\Projects\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.exe
+c:\users\muhsina\documents\visual studio 2015\Projects\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.pdb
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.txtDatabase.resources
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\Settings_Replication\Settings_Replication\bin\Debug\MySql.Data.xml
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\Settings_Replication\Settings_Replication\bin\Debug\SQLLOG2203.sql
+D:\Milestone Toolkit\Muhseena\ProjectsNew\Settings_Replication\Settings_Replication\bin\Debug\Settings_Replication.exe.config
+D:\Milestone Toolkit\Muhseena\ProjectsNew\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.exe
+D:\Milestone Toolkit\Muhseena\ProjectsNew\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.pdb
+D:\Milestone Toolkit\Muhseena\ProjectsNew\Settings_Replication\Settings_Replication\bin\Debug\SQLLOG2203.sql
+D:\Milestone Toolkit\Muhseena\ProjectsNew\Settings_Replication\Settings_Replication\bin\Debug\Settings_Replication.exe
+D:\Milestone Toolkit\Muhseena\ProjectsNew\Settings_Replication\Settings_Replication\bin\Debug\Settings_Replication.pdb
+D:\Milestone Toolkit\Muhseena\ProjectsNew\Settings_Replication\Settings_Replication\bin\Debug\MySql.Data.xml
+D:\Milestone Toolkit\Muhseena\ProjectsNew\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.csprojResolveAssemblyReference.cache
+D:\Milestone Toolkit\Muhseena\ProjectsNew\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.txtDatabase.resources
+D:\Milestone Toolkit\Muhseena\ProjectsNew\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.Properties.Resources.resources
+D:\Milestone Toolkit\Muhseena\ProjectsNew\Settings_Replication\Settings_Replication\obj\Debug\Settings_Replication.csproj.GenerateResource.Cache
